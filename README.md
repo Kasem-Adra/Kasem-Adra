@@ -4,7 +4,7 @@
 
 *Technology. Knowledge. Future.*
 
-[Website](https://qassem.net) · [ORCID](https://orcid.org/0009-0004-7615-4978) · [LinkedIn](https://linkedin.com/in/kasem-adra) · [QassemAi](https://github.com/QassemAi)
+[Official website & research archive](https://kasemadra.com/en/) · [ORCID](https://orcid.org/0009-0004-7615-4978) · [LinkedIn](https://linkedin.com/in/kasem-adra) · [Personal GitHub](https://github.com/Kasem-Adra) · [QassemAi projects](https://github.com/QassemAi)
 
 ## About
 
@@ -44,7 +44,24 @@ ACO-LLM investigates adaptive orchestration strategies for improving the reliabi
 
 [Read the research protocol](https://doi.org/10.5281/zenodo.24488951)
 
-The current publication defines the research methodology. Experimental validation remains a subsequent research objective.
+### Adaptive Cognitive Orchestration for Local Language Models: A Held-Out Evaluation of Structural Verification and Repair
+
+*ACO-LLM evaluation results · Public preprint · Not peer reviewed.*
+
+The separate held-out evaluation compares six arms across 8,064 episodes and 96 base tasks using one local Gemma configuration and simulated tools. Its primary equal-task-weighted estimate for arm D versus arm B is **+20.83 percentage points** (95% stratified cluster-bootstrap interval: 18.23–23.44).
+
+| Publication details | Information |
+|---|---|
+| Author | Kasem Adra |
+| Publication date | November 26, 2026 |
+| Type | Evaluation preprint |
+| Repository | Zenodo |
+| Review status | Not peer reviewed |
+| DOI | 10.5281/zenodo.24549236 |
+
+[Read the evaluation preprint](https://doi.org/10.5281/zenodo.24549236)
+
+The protocol and evaluation are separate research records: one specifies the methodology, and the other reports the held-out results.
 
 ## Technical Domains
 
@@ -95,11 +112,12 @@ I believe technology is not an isolated discipline, but a means of preserving kn
 - Advancing the ACO-LLM research programme.
 - Exploring reliable and resource-efficient local AI architectures.
 - Developing and documenting technical projects.
-- Building a multilingual personal knowledge platform at QASSEM.NET.
+- Maintaining the official multilingual profile and research archive at [kasemadra.com](https://kasemadra.com/en/); [qassem.net](https://qassem.net/) is a related personal domain.
 
 ## Connect
 
-- **Website:** https://qassem.net
+- **Official website:** https://kasemadra.com
+- **Related personal domain:** https://qassem.net
 - **Email:** info@qassem.net
 - **ORCID:** https://orcid.org/0009-0004-7615-4978
 - **LinkedIn:** https://linkedin.com/in/kasem-adra
