@@ -4,7 +4,7 @@
 
 *Technology. Knowledge. Future.*
 
-[Official website & research archive](https://kasemadra.com/en/) · [ORCID](https://orcid.org/0009-0004-7615-4978) · [LinkedIn](https://linkedin.com/in/kasem-adra) · [Personal GitHub](https://github.com/Kasem-Adra) · [QassemAi projects](https://github.com/QassemAi)
+[Official website & research archive](https://kasemadra.com/en/) · [ORCID](https://orcid.org/0009-0004-7615-4978) · [LinkedIn](https://linkedin.com/in/kasem-adra) · [Personal GitHub](https://github.com/Kasem-Adra) · [Facebook](https://www.facebook.com/Qassem) · [Instagram](https://www.instagram.com/qassemadra/) · [X](https://x.com/QassemAdra) · [Threads](https://www.threads.com/@qassemadra) · [QassemAi projects](https://github.com/QassemAi)
 
 ## About
 
@@ -121,8 +121,13 @@ I believe technology is not an isolated discipline, but a means of preserving kn
 - **Email:** info@qassem.net
 - **ORCID:** https://orcid.org/0009-0004-7615-4978
 - **LinkedIn:** https://linkedin.com/in/kasem-adra
-- **Research:** https://zenodo.org/records/24488951
-- **Organization:** https://github.com/QassemAi
+- **Facebook:** https://www.facebook.com/Qassem
+- **Instagram:** https://www.instagram.com/qassemadra/
+- **X:** https://x.com/QassemAdra
+- **Threads:** https://www.threads.com/@qassemadra
+- **Research protocol:** https://doi.org/10.5281/zenodo.24488951
+- **Evaluation preprint:** https://doi.org/10.5281/zenodo.24549236
+- **QassemAi organization:** https://github.com/QassemAi
 
 ---
 
